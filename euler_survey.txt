@@ -1,0 +1,7 @@
+"U1"  "U2"  "U3"  "U4"  "U5"  "U6"  "U7"  "U8"  "U9" "U10"  "U11"  "U12" "U13" "U14"
+"high" "low" "high" "high" "low" "low" "high" "low" "low" "high" "low" "high" "low" "high"
+"low" "low" "low" "high" "low" "high" "low" "high" "low" "high" "high" "low" "high" "low"
+"low" "high" "low" "high" "high" "low" "high" "low" "high" "low" "low" "high" "low" "high"
+"low" "high" "low" "low" "low" "low" "high" "high" "low" "high" "high" "low" "high" "low"
+"high" "low" "low" "high" "low" "low" "low" "low" "low" "low" "low" "low" "low" "low"
+"high" "low" "low" "low" "low" "high" "high" "low" "low" "high" "low" "low" "high" "low"
